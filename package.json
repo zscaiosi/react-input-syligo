@@ -1,0 +1,23 @@
+{
+  "name": "react-input-syligo",
+  "version": "1.0.1",
+  "description": "an universal react input by syligo",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "input",
+    "element",
+    "syligo"
+  ],
+  "git repository": "https://github.com/zscaiosi/react-input-syligo.git",
+  "author": "Caio Saldanha <zscaio.si@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "styled-components": "^2.1.2"
+  }
+}
